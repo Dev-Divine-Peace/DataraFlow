@@ -1,4 +1,4 @@
-![A picture of my acceptance into the cohort](<dataraflow-selected (1).png>)
+![A picture of my acceptance into the cohort](<dataraflow-selected (1).png>){width=200}
 # Dataraflow Data Science & Machine Learning Journey
 
 Welcome to my Dataraflow learning repository.
