@@ -1,4 +1,4 @@
-![Alt text]()
+![A picture of my acceptance into the cohort](<dataraflow-selected (1).png>)
 # Dataraflow Data Science & Machine Learning Journey
 
 Welcome to my Dataraflow learning repository.
@@ -45,8 +45,6 @@ Topics covered:
 - `map()` and `filter()`
 - Python methods
 
-**Focus:** Building a foundation in Python and understanding the broader Data Science and Machine Learning landscape.
-
 ---
 
 ### Week 2 — Python II & Object-Oriented Programming
@@ -63,15 +61,13 @@ Topics covered:
 - Iterators
 - Scope
 
-**Focus:** Developing a stronger understanding of Python and learning how to structure programs using Object-Oriented Programming.
-
 ---
 
 ### Week 3 — Python III & Introduction to SQL
 
 Topics covered:
 
-- More advanced Python concepts
+- More advanced Python concepts like Exception handling, User Input, Modules, Json, Math, Dates, File handling, PIP, Virtual Env etc
 - Working with data in Python
 - Introduction to databases
 - Introduction to SQL
@@ -79,8 +75,6 @@ Topics covered:
 - Filtering and sorting data
 - Aggregate functions
 - Data analysis using SQL
-
-**Focus:** Connecting programming skills with data manipulation and database querying.
 
 ---
 
@@ -98,8 +92,6 @@ Areas explored include:
 - Exploring potential project ideas
 - Understanding how to approach a research problem
 - Connecting technical skills with domain-specific problems
-
-**Focus:** Developing the ability to identify meaningful problems, investigate existing work, and think about how data and machine learning can be applied to them.
 
 ---
 
@@ -120,7 +112,7 @@ Dataraflow/
 │
 ├── Week 3/
 │   ├── Python III/
-│   └── SQL/
+│   └── Introduction to SQL/
 │
 ├── Week 4/
 │   └── Research/
