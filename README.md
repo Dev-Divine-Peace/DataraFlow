@@ -1,4 +1,5 @@
-<img src="dataraflow-selected (1).png" alt="my acceptance dataraflow image" width="200"> 
+<img src="dataraflow-selected (1).png" alt="my acceptance dataraflow image" width="400"> 
+
 # Dataraflow Data Science & Machine Learning Journey
 
 Welcome to my Dataraflow learning repository.
