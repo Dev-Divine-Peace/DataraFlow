@@ -1,4 +1,5 @@
-![A picture of my acceptance into the cohort](<dataraflow-selected (1).png>)
+<img src="dataraflow-selected (1).png" alt="my acceptance dataraflow image" width="400"> 
+
 # Dataraflow Data Science & Machine Learning Journey
 
 Welcome to my Dataraflow learning repository.
@@ -11,7 +12,7 @@ I created this repository to keep track of my progress, document the work I comp
 
 The Dataraflow program is a **6-month Data Science and Machine Learning training program** focused on building a strong foundation in programming, data analysis, machine learning, and research through practical assignments and take-home tasks.
 
-Rather than simply learning concepts, the program encourages us to apply what we learn through projects, exercises, research, and problem-solving.
+Rather than simply learning concepts, the program encourages us to apply what we learn through projects, exercises, research, and problem-solving. Check out [DataraFlow](https://www.dataraflow.org/) website to know more.
 
 ## Why I'm Doing This
 
