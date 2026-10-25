@@ -1,0 +1,14 @@
+# Ignore a specific file
+IntroSQL.ipynb
+
+# Ignore an entire folder (always end with a forward slash)
+Week 6/
+Week 7/
+
+# Ignore a specific type of file anywhere in the project (using a wildcard)
+#*.log
+#*.env
+
+# Exception rule: Ignore all log files EXCEPT important.log
+#*.log
+#!important.log
